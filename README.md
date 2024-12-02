@@ -1,4 +1,4 @@
-#OAI-33-Static-Logic
+# OAI-33-Static-Logic
 Institute: Indraprastha Institute of Information Technology, Delhi (IIITD)
 Instructor: Dr Anuj Grover
 Course: Digital VLSI Design
